@@ -1,0 +1,708 @@
+{
+  "freq_by_type": {
+    "movie": 1889463,
+    "tvshow": 72287
+  },
+  "top_100_remap": [
+    {
+      "remap_index": 0,
+      "packed": 245812,
+      "tmdb_id": 122906,
+      "type": "movie",
+      "frequency": 1956
+    },
+    {
+      "remap_index": 1,
+      "packed": 1826580,
+      "tmdb_id": 913290,
+      "type": "movie",
+      "frequency": 1943
+    },
+    {
+      "remap_index": 2,
+      "packed": 1130,
+      "tmdb_id": 565,
+      "type": "movie",
+      "frequency": 1827
+    },
+    {
+      "remap_index": 3,
+      "packed": 987844,
+      "tmdb_id": 493922,
+      "type": "movie",
+      "frequency": 1630
+    },
+    {
+      "remap_index": 4,
+      "packed": 170700,
+      "tmdb_id": 85350,
+      "type": "movie",
+      "frequency": 1583
+    },
+    {
+      "remap_index": 5,
+      "packed": 1176,
+      "tmdb_id": 588,
+      "type": "movie",
+      "frequency": 1561
+    },
+    {
+      "remap_index": 6,
+      "packed": 3998,
+      "tmdb_id": 1999,
+      "type": "movie",
+      "frequency": 1550
+    },
+    {
+      "remap_index": 7,
+      "packed": 18856,
+      "tmdb_id": 9428,
+      "type": "movie",
+      "frequency": 1496
+    },
+    {
+      "remap_index": 8,
+      "packed": 315094,
+      "tmdb_id": 157547,
+      "type": "movie",
+      "frequency": 1444
+    },
+    {
+      "remap_index": 9,
+      "packed": 19044,
+      "tmdb_id": 9522,
+      "type": "movie",
+      "frequency": 1415
+    },
+    {
+      "remap_index": 10,
+      "packed": 421154,
+      "tmdb_id": 210577,
+      "type": "movie",
+      "frequency": 1400
+    },
+    {
+      "remap_index": 11,
+      "packed": 352,
+      "tmdb_id": 176,
+      "type": "movie",
+      "frequency": 1380
+    },
+    {
+      "remap_index": 12,
+      "packed": 669082,
+      "tmdb_id": 334541,
+      "type": "movie",
+      "frequency": 1376
+    },
+    {
+      "remap_index": 13,
+      "packed": 802,
+      "tmdb_id": 401,
+      "type": "movie",
+      "frequency": 1372
+    },
+    {
+      "remap_index": 14,
+      "packed": 165014,
+      "tmdb_id": 82507,
+      "type": "movie",
+      "frequency": 1349
+    },
+    {
+      "remap_index": 15,
+      "packed": 848278,
+      "tmdb_id": 424139,
+      "type": "movie",
+      "frequency": 1348
+    },
+    {
+      "remap_index": 16,
+      "packed": 22072,
+      "tmdb_id": 11036,
+      "type": "movie",
+      "frequency": 1326
+    },
+    {
+      "remap_index": 17,
+      "packed": 540606,
+      "tmdb_id": 270303,
+      "type": "movie",
+      "frequency": 1322
+    },
+    {
+      "remap_index": 18,
+      "packed": 144210,
+      "tmdb_id": 72105,
+      "type": "movie",
+      "frequency": 1313
+    },
+    {
+      "remap_index": 19,
+      "packed": 28,
+      "tmdb_id": 14,
+      "type": "movie",
+      "frequency": 1303
+    },
+    {
+      "remap_index": 20,
+      "packed": 18746,
+      "tmdb_id": 9373,
+      "type": "movie",
+      "frequency": 1302
+    },
+    {
+      "remap_index": 21,
+      "packed": 18678,
+      "tmdb_id": 9339,
+      "type": "movie",
+      "frequency": 1289
+    },
+    {
+      "remap_index": 22,
+      "packed": 20132,
+      "tmdb_id": 10066,
+      "type": "movie",
+      "frequency": 1279
+    },
+    {
+      "remap_index": 23,
+      "packed": 1239556,
+      "tmdb_id": 619778,
+      "type": "movie",
+      "frequency": 1272
+    },
+    {
+      "remap_index": 24,
+      "packed": 218886,
+      "tmdb_id": 109443,
+      "type": "movie",
+      "frequency": 1270
+    },
+    {
+      "remap_index": 25,
+      "packed": 644,
+      "tmdb_id": 322,
+      "type": "movie",
+      "frequency": 1256
+    },
+    {
+      "remap_index": 26,
+      "packed": 19534,
+      "tmdb_id": 9767,
+      "type": "movie",
+      "frequency": 1246
+    },
+    {
+      "remap_index": 27,
+      "packed": 39826,
+      "tmdb_id": 19913,
+      "type": "movie",
+      "frequency": 1243
+    },
+    {
+      "remap_index": 28,
+      "packed": 46338,
+      "tmdb_id": 23169,
+      "type": "movie",
+      "frequency": 1242
+    },
+    {
+      "remap_index": 29,
+      "packed": 5324,
+      "tmdb_id": 2662,
+      "type": "movie",
+      "frequency": 1231
+    },
+    {
+      "remap_index": 30,
+      "packed": 1388,
+      "tmdb_id": 694,
+      "type": "movie",
+      "frequency": 1224
+    },
+    {
+      "remap_index": 31,
+      "packed": 1765196,
+      "tmdb_id": 882598,
+      "type": "movie",
+      "frequency": 1205
+    },
+    {
+      "remap_index": 32,
+      "packed": 16692,
+      "tmdb_id": 8346,
+      "type": "movie",
+      "frequency": 1197
+    },
+    {
+      "remap_index": 33,
+      "packed": 19312,
+      "tmdb_id": 9656,
+      "type": "movie",
+      "frequency": 1191
+    },
+    {
+      "remap_index": 34,
+      "packed": 1327424,
+      "tmdb_id": 663712,
+      "type": "movie",
+      "frequency": 1191
+    },
+    {
+      "remap_index": 35,
+      "packed": 1896,
+      "tmdb_id": 948,
+      "type": "movie",
+      "frequency": 1190
+    },
+    {
+      "remap_index": 36,
+      "packed": 76,
+      "tmdb_id": 38,
+      "type": "movie",
+      "frequency": 1173
+    },
+    {
+      "remap_index": 37,
+      "packed": 45940,
+      "tmdb_id": 22970,
+      "type": "movie",
+      "frequency": 1166
+    },
+    {
+      "remap_index": 38,
+      "packed": 21330,
+      "tmdb_id": 10665,
+      "type": "movie",
+      "frequency": 1164
+    },
+    {
+      "remap_index": 39,
+      "packed": 691822,
+      "tmdb_id": 345911,
+      "type": "movie",
+      "frequency": 1159
+    },
+    {
+      "remap_index": 40,
+      "packed": 145689,
+      "tmdb_id": 72844,
+      "type": "tvshow",
+      "frequency": 1151
+    },
+    {
+      "remap_index": 41,
+      "packed": 82892,
+      "tmdb_id": 41446,
+      "type": "movie",
+      "frequency": 1143
+    },
+    {
+      "remap_index": 42,
+      "packed": 46874,
+      "tmdb_id": 23437,
+      "type": "movie",
+      "frequency": 1133
+    },
+    {
+      "remap_index": 43,
+      "packed": 6042,
+      "tmdb_id": 3021,
+      "type": "movie",
+      "frequency": 1126
+    },
+    {
+      "remap_index": 44,
+      "packed": 1732926,
+      "tmdb_id": 866463,
+      "type": "movie",
+      "frequency": 1115
+    },
+    {
+      "remap_index": 45,
+      "packed": 8696,
+      "tmdb_id": 4348,
+      "type": "movie",
+      "frequency": 1108
+    },
+    {
+      "remap_index": 46,
+      "packed": 33238,
+      "tmdb_id": 16619,
+      "type": "movie",
+      "frequency": 1106
+    },
+    {
+      "remap_index": 47,
+      "packed": 20452,
+      "tmdb_id": 10226,
+      "type": "movie",
+      "frequency": 1089
+    },
+    {
+      "remap_index": 48,
+      "packed": 8464,
+      "tmdb_id": 4232,
+      "type": "movie",
+      "frequency": 1087
+    },
+    {
+      "remap_index": 49,
+      "packed": 1060770,
+      "tmdb_id": 530385,
+      "type": "movie",
+      "frequency": 1085
+    },
+    {
+      "remap_index": 50,
+      "packed": 20640,
+      "tmdb_id": 10320,
+      "type": "movie",
+      "frequency": 1082
+    },
+    {
+      "remap_index": 51,
+      "packed": 218856,
+      "tmdb_id": 109428,
+      "type": "movie",
+      "frequency": 1072
+    },
+    {
+      "remap_index": 52,
+      "packed": 17398,
+      "tmdb_id": 8699,
+      "type": "movie",
+      "frequency": 1070
+    },
+    {
+      "remap_index": 53,
+      "packed": 917446,
+      "tmdb_id": 458723,
+      "type": "movie",
+      "frequency": 1070
+    },
+    {
+      "remap_index": 54,
+      "packed": 60994,
+      "tmdb_id": 30497,
+      "type": "movie",
+      "frequency": 1059
+    },
+    {
+      "remap_index": 55,
+      "packed": 841268,
+      "tmdb_id": 420634,
+      "type": "movie",
+      "frequency": 1057
+    },
+    {
+      "remap_index": 56,
+      "packed": 8468,
+      "tmdb_id": 4234,
+      "type": "movie",
+      "frequency": 1053
+    },
+    {
+      "remap_index": 57,
+      "packed": 22112,
+      "tmdb_id": 11056,
+      "type": "movie",
+      "frequency": 1051
+    },
+    {
+      "remap_index": 58,
+      "packed": 2070518,
+      "tmdb_id": 1035259,
+      "type": "movie",
+      "frequency": 1046
+    },
+    {
+      "remap_index": 59,
+      "packed": 19242,
+      "tmdb_id": 9621,
+      "type": "movie",
+      "frequency": 1043
+    },
+    {
+      "remap_index": 60,
+      "packed": 22186,
+      "tmdb_id": 11093,
+      "type": "movie",
+      "frequency": 1035
+    },
+    {
+      "remap_index": 61,
+      "packed": 1450402,
+      "tmdb_id": 725201,
+      "type": "movie",
+      "frequency": 1031
+    },
+    {
+      "remap_index": 62,
+      "packed": 754,
+      "tmdb_id": 377,
+      "type": "movie",
+      "frequency": 1030
+    },
+    {
+      "remap_index": 63,
+      "packed": 783426,
+      "tmdb_id": 391713,
+      "type": "movie",
+      "frequency": 1028
+    },
+    {
+      "remap_index": 64,
+      "packed": 93410,
+      "tmdb_id": 46705,
+      "type": "movie",
+      "frequency": 1027
+    },
+    {
+      "remap_index": 65,
+      "packed": 167798,
+      "tmdb_id": 83899,
+      "type": "movie",
+      "frequency": 1025
+    },
+    {
+      "remap_index": 66,
+      "packed": 1230914,
+      "tmdb_id": 615457,
+      "type": "movie",
+      "frequency": 1025
+    },
+    {
+      "remap_index": 67,
+      "packed": 18978,
+      "tmdb_id": 9489,
+      "type": "movie",
+      "frequency": 1024
+    },
+    {
+      "remap_index": 68,
+      "packed": 277686,
+      "tmdb_id": 138843,
+      "type": "movie",
+      "frequency": 1023
+    },
+    {
+      "remap_index": 69,
+      "packed": 2465092,
+      "tmdb_id": 1232546,
+      "type": "movie",
+      "frequency": 1016
+    },
+    {
+      "remap_index": 70,
+      "packed": 27030,
+      "tmdb_id": 13515,
+      "type": "movie",
+      "frequency": 1013
+    },
+    {
+      "remap_index": 71,
+      "packed": 1427408,
+      "tmdb_id": 713704,
+      "type": "movie",
+      "frequency": 1008
+    },
+    {
+      "remap_index": 72,
+      "packed": 24266,
+      "tmdb_id": 12133,
+      "type": "movie",
+      "frequency": 1001
+    },
+    {
+      "remap_index": 73,
+      "packed": 130172,
+      "tmdb_id": 65086,
+      "type": "movie",
+      "frequency": 993
+    },
+    {
+      "remap_index": 74,
+      "packed": 314866,
+      "tmdb_id": 157433,
+      "type": "movie",
+      "frequency": 989
+    },
+    {
+      "remap_index": 75,
+      "packed": 98036,
+      "tmdb_id": 49018,
+      "type": "movie",
+      "frequency": 985
+    },
+    {
+      "remap_index": 76,
+      "packed": 1292770,
+      "tmdb_id": 646385,
+      "type": "movie",
+      "frequency": 983
+    },
+    {
+      "remap_index": 77,
+      "packed": 853126,
+      "tmdb_id": 426563,
+      "type": "movie",
+      "frequency": 978
+    },
+    {
+      "remap_index": 78,
+      "packed": 101292,
+      "tmdb_id": 50646,
+      "type": "movie",
+      "frequency": 975
+    },
+    {
+      "remap_index": 79,
+      "packed": 640,
+      "tmdb_id": 320,
+      "type": "movie",
+      "frequency": 969
+    },
+    {
+      "remap_index": 80,
+      "packed": 4164,
+      "tmdb_id": 2082,
+      "type": "movie",
+      "frequency": 968
+    },
+    {
+      "remap_index": 81,
+      "packed": 2157210,
+      "tmdb_id": 1078605,
+      "type": "movie",
+      "frequency": 964
+    },
+    {
+      "remap_index": 82,
+      "packed": 20138,
+      "tmdb_id": 10069,
+      "type": "movie",
+      "frequency": 958
+    },
+    {
+      "remap_index": 83,
+      "packed": 23816,
+      "tmdb_id": 11908,
+      "type": "movie",
+      "frequency": 958
+    },
+    {
+      "remap_index": 84,
+      "packed": 16386,
+      "tmdb_id": 8193,
+      "type": "movie",
+      "frequency": 948
+    },
+    {
+      "remap_index": 85,
+      "packed": 17290,
+      "tmdb_id": 8645,
+      "type": "movie",
+      "frequency": 945
+    },
+    {
+      "remap_index": 86,
+      "packed": 284,
+      "tmdb_id": 142,
+      "type": "movie",
+      "frequency": 942
+    },
+    {
+      "remap_index": 87,
+      "packed": 484448,
+      "tmdb_id": 242224,
+      "type": "movie",
+      "frequency": 924
+    },
+    {
+      "remap_index": 88,
+      "packed": 4048,
+      "tmdb_id": 2024,
+      "type": "movie",
+      "frequency": 923
+    },
+    {
+      "remap_index": 89,
+      "packed": 1268,
+      "tmdb_id": 634,
+      "type": "movie",
+      "frequency": 920
+    },
+    {
+      "remap_index": 90,
+      "packed": 1769210,
+      "tmdb_id": 884605,
+      "type": "movie",
+      "frequency": 920
+    },
+    {
+      "remap_index": 91,
+      "packed": 18784,
+      "tmdb_id": 9392,
+      "type": "movie",
+      "frequency": 912
+    },
+    {
+      "remap_index": 92,
+      "packed": 662964,
+      "tmdb_id": 331482,
+      "type": "movie",
+      "frequency": 908
+    },
+    {
+      "remap_index": 93,
+      "packed": 9227,
+      "tmdb_id": 4613,
+      "type": "tvshow",
+      "frequency": 906
+    },
+    {
+      "remap_index": 94,
+      "packed": 1018,
+      "tmdb_id": 509,
+      "type": "movie",
+      "frequency": 905
+    },
+    {
+      "remap_index": 95,
+      "packed": 26414,
+      "tmdb_id": 13207,
+      "type": "movie",
+      "frequency": 904
+    },
+    {
+      "remap_index": 96,
+      "packed": 1714,
+      "tmdb_id": 857,
+      "type": "movie",
+      "frequency": 898
+    },
+    {
+      "remap_index": 97,
+      "packed": 4576,
+      "tmdb_id": 2288,
+      "type": "movie",
+      "frequency": 896
+    },
+    {
+      "remap_index": 98,
+      "packed": 169784,
+      "tmdb_id": 84892,
+      "type": "movie",
+      "frequency": 889
+    },
+    {
+      "remap_index": 99,
+      "packed": 22192,
+      "tmdb_id": 11096,
+      "type": "movie",
+      "frequency": 887
+    }
+  ]
+}

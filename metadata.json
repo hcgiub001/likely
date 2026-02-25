@@ -1,0 +1,11 @@
+{
+  "bin": "C:\\Users\\Sufff\\Documents\\packed_output\\packed_output 016\\packed_output\\dataset.bin",
+  "bin_size_bytes": 4266750,
+  "rows": 26378,
+  "total_similar_entries": 1961750,
+  "unique_similar_ids": 26455,
+  "remap_index_width_bytes": 2,
+  "lengths_type": "uint8",
+  "flags": 0,
+  "offsets_omitted": false
+}
